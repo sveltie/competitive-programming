@@ -2,7 +2,8 @@
     Using WSL Ubuntu 20.04.3 LTS
     GNU C++17 7.3.0
     
-    Time : 93 ms, Memory : 3700 KB  */
+    Time : 93 ms, Memory : 3700 KB  
+    Big O Notation : O(N) */
 
 #include <bits/stdc++.h>
 using namespace std;
