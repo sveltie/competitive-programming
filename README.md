@@ -1,2 +1,2 @@
-## codeforces
-Uhh..This is just a repo for my codeforces solution.
+## stuffs
+Uhh..This is just a repo for my programming problem solution.
